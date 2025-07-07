@@ -10,6 +10,42 @@
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
     },
+    "danai": {
+      "api": "https://apidanaizi.com/api.php/provide/vod",
+      "name": "大奶资源"
+    },
+    "xingba": {
+      "api": "https://xingba111.com/api.php/provide/vod",
+      "name": "辛巴资源"
+    },
+    "tianya": {
+      "api": "https://tyyszyapi.com/api.php/provide/vod",
+      "name": "天涯资源"
+    },
+    "fengchao": {
+      "api": "https://api.fczy888.me/api.php/provide/vod",
+      "name": "蜂巢资源"
+    },
+    "xiaoji": {
+      "api": "https://api.xiaojizy.live/provide/vod",
+      "name": "小鸡资源"
+    },
+    "xibao": {
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "name": "细胞资源"
+    },
+      "yaya": {
+      "api": "https://cj.yayazy.net/api.php/provide/vod",
+      "name": "鸭鸭资源"
+    },
+      "niuniu": {
+      "api": "https://api.niuniuzy.me/api.php/provide/vod",
+      "name": "牛牛资源"
+    },
+      "jinma": {
+      "api": "https://api.jmzy.com/api.php/provide/vod",
+      "name": "金马资源"
+    },
      "maotai": {
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "name": "茅台资源"
